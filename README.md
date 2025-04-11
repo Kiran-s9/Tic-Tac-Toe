@@ -4,7 +4,7 @@ A classic Tic Tac Toe game where **you play against the computer**! Built using 
 
 ## 🌐 Live Demo
 
-🔗 [Play the Game](https://yourwebsite.com)
+🔗 [Play the Game](https://kiran-s9.github.io/)
 
 ## 📸 Screenshots
 
